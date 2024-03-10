@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🎮️🖼️🌐️ Mini website for the seanpm2001 life archive project: a website for the Disco Zoo git-image sub-project.
